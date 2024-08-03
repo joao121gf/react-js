@@ -5,6 +5,9 @@ export default function App() {
     <>
       <h1>Hello everyone</h1>
       <p></p>
+      <style>
+        
+      </style>
     </>
   );
 }

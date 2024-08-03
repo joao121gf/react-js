@@ -1,0 +1,9 @@
+for create a app in react:
+first: go to terminal and type:
+ cd c:/..... ( relative path)
+npx create-react-app nameOfPasta
+
+
+cd nameOfPasta
+npm start for init
+

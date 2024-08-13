@@ -1,14 +1,11 @@
 import React from "react";
-import Header from "./componentes/header.js";
-import Corpo from "./componentes/corpo.js";
-import ReturnPeople from "./componentes/returnPeople.js";
+import Hello from "./componentes/hello";
+import Age from "./componentes/Age";
 
 export default function App() {
   return (
     <>
-      <Header></Header>
-      <Corpo></Corpo>
-      <ReturnPeople></ReturnPeople>
+      <Hello nome="João"></Hello>
     </>
   );
 }

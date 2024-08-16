@@ -6,7 +6,7 @@ export default function Hello(props) {
     <section>
       <p>Hello, welcome {props.nome}</p>
       <p>
-        I see in the databse that you have {props.idade}
+        I see in the databse that you have 
         <Age idade="24 "></Age>
         years old
       </p>

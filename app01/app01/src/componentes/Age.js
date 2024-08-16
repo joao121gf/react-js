@@ -1,8 +1,8 @@
 import React from "react";
 import Hello from "./hello";
 
-export default function Age(drops) {
+export default function Age(props) {
   return (
-    drops.idade 
+    props.idade 
   );
 }
